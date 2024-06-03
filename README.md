@@ -17,3 +17,6 @@ Presentation slides:
 [[download]](https://raw.githubusercontent.com/mmore500/midas-dataviz/master/TanzaniaDHS.csv)
 [[view]](https://github.com/mmore500/midas-dataviz/blob/master/TanzaniaDHS.csv)
 [[source]](https://assets.prb.org/pdf16/PACE%20Toolkit/7%20Data%20Visualization%20(DV)/DV3E/DV3E_DataVizChallenge.pdf)
+
+[[open notebook in Google Colab]](https://colab.research.google.com/github/mmore500/midas-dataviz/blob/master/TanzaniaDHS.ipynb)
+[[PyGWalker Docs]](https://docs.kanaries.net/pygwalker)
