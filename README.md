@@ -6,6 +6,12 @@ Presenters:
 - Alyssa Schubert
 - Matthew Andres Moreno
 
+This page:
+<https://hopth.ru/cy>
+
+Presentation slides:
+<https://hopth.ru/cx>
+
 ## Tanzania DHS Dataset
 
 [[download]](https://raw.githubusercontent.com/mmore500/midas-dataviz/master/TanzaniaDHS.csv)
