@@ -12,6 +12,23 @@ This page:
 Presentation slides:
 <https://hopth.ru/cx>
 
+## Scavenger Hunt Websites
+
+Statista:
+<https://www.statista.com>
+
+Our World in Data: 
+<https://ourworldindata.org>
+
+Google Public Data:
+<https://www.google.com/publicdata/directory>
+
+The Associated Press: 
+<https://apnews.com>
+
+PLOS Climate:
+<https://journals.plos.org/climate/>
+
 ## Tanzania DHS Dataset
 
 [[download]](https://raw.githubusercontent.com/mmore500/midas-dataviz/master/TanzaniaDHS.csv)
