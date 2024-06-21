@@ -37,3 +37,11 @@ PLOS Climate:
 
 [[open notebook in Google Colab]](https://colab.research.google.com/github/mmore500/midas-dataviz/blob/master/TanzaniaDHS.ipynb)
 [[PyGWalker Docs]](https://docs.kanaries.net/pygwalker)
+
+## Marathon Dataset
+
+[[download]](https://raw.githubusercontent.com/mmore500/midas-dataviz/master/top-marathon-times.csv)
+[[view]](https://github.com/mmore500/midas-dataviz/blob/master/top-marathon-times.csv)
+[[source]](http://worldathletics.org/)
+
+
